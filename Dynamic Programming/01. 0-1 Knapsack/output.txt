@@ -1,1 +1,1 @@
-No. of possible expressions whose sum is same as 1 are: 3
+No. of possible expressions whose sum is same as 2 are: 1

@@ -20,6 +20,7 @@ int countSubsetsWithGivenSum(int arr[],int sum,int n){
  
     // If sum is not 0 and set is empty,
     // then answer is false
+
     inc_i(1,sum+1)
         dp[0][i] = 0;
 
@@ -56,7 +57,7 @@ int main(){
     cin>>diff;
 
     int s1 = (sum+diff)/2;
-
+    // if((target + sum)%2 || abs(target)>sum )return 0;
     int ans = countSubsetsWithGivenSum(arr,s1,n);
     cout<<"No. of possible expressions whose sum is same as "<<diff<<" are: "<<ans;
 
