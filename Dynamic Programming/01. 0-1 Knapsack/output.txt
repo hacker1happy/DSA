@@ -1,1 +1,1 @@
-Min. subset difference is: 4
+No. of possible expressions whose sum is same as 1 are: 3
