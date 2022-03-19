@@ -1,1 +1,1 @@
-Max. profit by unbounded knapsack = 300
+Max. price in rod cutting = 22
