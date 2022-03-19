@@ -55,7 +55,7 @@ int main(){
     cin>>w;
 
     int ans = knapsack(wt,val,w,n);
-    // Tabulation is called  bottom-up, because we start the solution from base case (initialize matrix using base case) and build the solution to the top (t[n][w] in this case).
+    
     cout<<"Max. profit by unbounded knapsack = "<<ans;
 
     return 0;
