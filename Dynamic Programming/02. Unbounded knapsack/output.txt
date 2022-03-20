@@ -1,1 +1,1 @@
-Max. price in rod cutting = 22
+Max. no. of ways [Coin change I] = 0
