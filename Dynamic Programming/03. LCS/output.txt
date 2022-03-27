@@ -1,1 +1,1 @@
-Length of longest common sub-sequence [LCS] = 3
+Length of longest common sub-string [LCS] = 1
