@@ -1,0 +1,1 @@
+Length of longest common sub-sequence [LCS] = 3
