@@ -1,1 +1,1 @@
-Length of longest common sub-string [LCS] = 1
+longest common sub-sequence = ACDF
