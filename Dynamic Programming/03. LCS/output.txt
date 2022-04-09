@@ -1,1 +1,2 @@
-Length of shortest common super-sequence = 5
+Minimum no. of deletion = 2
+Minimum no. of insertion = 1
