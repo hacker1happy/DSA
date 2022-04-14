@@ -1,2 +1,1 @@
-Minimum no. of deletion = 2
-Minimum no. of insertion = 1
+Yes x is in the sub-sequence y
