@@ -1,0 +1,1 @@
+Minimum number of partions to be done to get the substrings as a palindrome are(using dp-optimization) = 0
