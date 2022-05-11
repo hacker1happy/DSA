@@ -1,1 +1,1 @@
-Minimum number of partions to be done to get the substrings as a palindrome are(using dp-optimization) = 0
+Number of ways to parenthesize the expression = 4
