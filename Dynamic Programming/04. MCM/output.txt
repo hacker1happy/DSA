@@ -1,1 +1,1 @@
-Number of ways to parenthesize the expression = 4
+Scrambled
