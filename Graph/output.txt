@@ -1,1 +1,1 @@
-Yes bipartite.
+Cycle Detected
